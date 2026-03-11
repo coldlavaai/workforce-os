@@ -85,11 +85,13 @@ The infrastructure is ready — just run the generation script with expanded par
 
 ## Pages Generated
 
-- Resource Hubs: 1,200 pages
-- Industry Pages: 300 pages
+- Resource Hubs: 1,200 pages (60 industries × 4 content types × 5 countries)
+- Industry Pages: 300 pages (60 industries × 5 countries)
+- City Pages: 3,000 pages (60 industries × 50 US cities)
+- Comparison Pages: 70 pages (10 vs pages + 60 best-of pages)
 - Homepage: 1 page
 - Demo Page: 1 page
-- **Total: 1,502 pages**
+- **Total: 4,571 pages**
 
 ---
 
