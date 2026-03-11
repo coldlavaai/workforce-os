@@ -73,14 +73,30 @@ To hit 5,000+ pages:
 
 The infrastructure is ready — just run the generation script with expanded parameters.
 
+## Copy Quality Upgrade
+
+Current pages have **template-level copy** (placeholders). To upgrade to **AI-generated, persuasive copy**:
+
+```bash
+# Get a free Gemini API key: https://aistudio.google.com/apikey
+export GEMINI_API_KEY=your_key_here
+
+# Regenerate top 100 pages with AI copy (3 mins, $0.08)
+npm run regenerate:ai
+```
+
+See `UPGRADE-COPY.md` for full instructions.
+
+**Cost:** $0.08 for top 100 pages, $4.50 for all 4,571 pages.
+
 ## What's Next
 
 - [ ] Connect to Vercel and deploy
+- [ ] **[Recommended]** Regenerate top 100 pages with AI copy (see above)
 - [ ] Add Google Analytics
 - [ ] Submit sitemap to Google Search Console
 - [ ] Monitor indexing rate (expect 50% indexed within 30 days)
 - [ ] Add internal linking between related pages
-- [ ] Generate city-specific pages for local SEO
 - [ ] Build free tools (calculators, audits)
 
 ## Pages Generated
