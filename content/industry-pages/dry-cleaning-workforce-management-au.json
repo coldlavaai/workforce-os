@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Dry Cleaning",
+    "slug": "dry-cleaning-workforce-management-au",
+    "country": "Australia"
+  },
+  "seo": {
+    "title": "Dry Cleaning Workforce Management Software | Workforce OS",
+    "description": "Transform Dry Cleaning staffing with Workforce OS. Reduce agency costs by 60%, eliminate no-shows, and automate crew dispatch. Built for 10-100 worker operations.",
+    "keywords": [
+      "dry-cleaning workforce management",
+      "dry-cleaning staffing software",
+      "dry-cleaning labour management"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Dry Cleaning Companies",
+      "subheading": "Automate crew dispatch, eliminate agency dependency, reduce no-shows by 45%",
+      "pain_point": "Managing 10-100 workers across multiple sites without agency fees"
+    },
+    "problem_section": {
+      "heading": "The Staffing Challenge",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Relying on staffing agencies eats into margins with every shift",
+          "cost_impact": "Avg. £120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to jobs based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers confirm shifts via mobile app, eliminating guesswork",
+          "benefit": "Reduce no-shows by 45%"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Time Saved",
+        "value": "10+ hrs/week",
+        "context": "On scheduling tasks"
+      }
+    ],
+    "case_study": {
+      "company_type": "A leading UK commercial contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs and frequent no-shows delaying projects",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved £120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Dry Cleaning companies?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for trade and service businesses."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      }
+    ],
+    "cta": {
+      "heading": "See Workforce OS in Action",
+      "description": "Book a 15-minute demo to see how we help Dry Cleaning companies reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

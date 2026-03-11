@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "content_type": "checklist",
+    "industry": "Event Staffing",
+    "slug": "event-staffing-checklist-ie",
+    "country": "Ireland"
+  },
+  "seo": {
+    "title": "Checklist Items for Event Staffing",
+    "description": "Discover proven checklist to improve workforce management for Event Staffing companies. Free guide from Workforce OS.",
+    "keywords": [
+      "event-staffing workforce management",
+      "event-staffing staffing",
+      "event-staffing checklist"
+    ]
+  },
+  "content": {
+    "intro": "Placeholder intro for Event Staffing checklist",
+    "hero_stat": "40 Proven Checklist Items",
+    "sections": [
+      {
+        "heading": "Getting Started",
+        "items": [
+          {
+            "title": "Strategy 1",
+            "description": "Description for strategy 1",
+            "difficulty": "beginner",
+            "impact": "high"
+          },
+          {
+            "title": "Strategy 2",
+            "description": "Description for strategy 2",
+            "difficulty": "beginner",
+            "impact": "medium"
+          },
+          {
+            "title": "Strategy 3",
+            "description": "Description for strategy 3",
+            "difficulty": "beginner",
+            "impact": "standard"
+          },
+          {
+            "title": "Strategy 4",
+            "description": "Description for strategy 4",
+            "difficulty": "intermediate",
+            "impact": "high"
+          },
+          {
+            "title": "Strategy 5",
+            "description": "Description for strategy 5",
+            "difficulty": "intermediate",
+            "impact": "medium"
+          },
+          {
+            "title": "Strategy 6",
+            "description": "Description for strategy 6",
+            "difficulty": "intermediate",
+            "impact": "standard"
+          },
+          {
+            "title": "Strategy 7",
+            "description": "Description for strategy 7",
+            "difficulty": "intermediate",
+            "impact": "high"
+          },
+          {
+            "title": "Strategy 8",
+            "description": "Description for strategy 8",
+            "difficulty": "advanced",
+            "impact": "medium"
+          },
+          {
+            "title": "Strategy 9",
+            "description": "Description for strategy 9",
+            "difficulty": "advanced",
+            "impact": "standard"
+          },
+          {
+            "title": "Strategy 10",
+            "description": "Description for strategy 10",
+            "difficulty": "advanced",
+            "impact": "high"
+          }
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Pro tip 1",
+      "Pro tip 2",
+      "Pro tip 3",
+      "Pro tip 4",
+      "Pro tip 5"
+    ],
+    "cta": {
+      "heading": "Ready to Transform Your Workforce Management?",
+      "description": "See how Workforce OS helps Event Staffing companies reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "content_type": "tips",
+    "industry": "Property Management",
+    "slug": "property-management-tips-us",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Tips for Property Management",
+    "description": "Discover proven tips to improve workforce management for Property Management companies. Free guide from Workforce OS.",
+    "keywords": [
+      "property-management workforce management",
+      "property-management staffing",
+      "property-management tips"
+    ]
+  },
+  "content": {
+    "intro": "Placeholder intro for Property Management tips",
+    "hero_stat": "40 Proven Tips",
+    "sections": [
+      {
+        "heading": "Getting Started",
+        "items": [
+          {
+            "title": "Strategy 1",
+            "description": "Description for strategy 1",
+            "difficulty": "beginner",
+            "impact": "high"
+          },
+          {
+            "title": "Strategy 2",
+            "description": "Description for strategy 2",
+            "difficulty": "beginner",
+            "impact": "medium"
+          },
+          {
+            "title": "Strategy 3",
+            "description": "Description for strategy 3",
+            "difficulty": "beginner",
+            "impact": "standard"
+          },
+          {
+            "title": "Strategy 4",
+            "description": "Description for strategy 4",
+            "difficulty": "intermediate",
+            "impact": "high"
+          },
+          {
+            "title": "Strategy 5",
+            "description": "Description for strategy 5",
+            "difficulty": "intermediate",
+            "impact": "medium"
+          },
+          {
+            "title": "Strategy 6",
+            "description": "Description for strategy 6",
+            "difficulty": "intermediate",
+            "impact": "standard"
+          },
+          {
+            "title": "Strategy 7",
+            "description": "Description for strategy 7",
+            "difficulty": "intermediate",
+            "impact": "high"
+          },
+          {
+            "title": "Strategy 8",
+            "description": "Description for strategy 8",
+            "difficulty": "advanced",
+            "impact": "medium"
+          },
+          {
+            "title": "Strategy 9",
+            "description": "Description for strategy 9",
+            "difficulty": "advanced",
+            "impact": "standard"
+          },
+          {
+            "title": "Strategy 10",
+            "description": "Description for strategy 10",
+            "difficulty": "advanced",
+            "impact": "high"
+          }
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Pro tip 1",
+      "Pro tip 2",
+      "Pro tip 3",
+      "Pro tip 4",
+      "Pro tip 5"
+    ],
+    "cta": {
+      "heading": "Ready to Transform Your Workforce Management?",
+      "description": "See how Workforce OS helps Property Management companies reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}
