@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Workforce OS — Programmatic SEO Site
 
-## Getting Started
+**1,500 pages generated across 60 industries.**
 
-First, run the development server:
+## What's Inside
+
+- **60 Industries**: Construction, Healthcare, Hospitality, Commercial Cleaning, and 56 more
+- **5 Countries**: United States, Canada, Australia, New Zealand, Ireland
+- **1,500 Pages**: Resource hubs (checklists, guides, tips, strategies) + Industry landing pages
+- **Next.js 15**: Fast, SEO-optimised static site generation
+- **Tailwind CSS**: Clean, modern design with Cold Lava branding (navy #0A1628 + electric blue #2563EB)
+
+## Content Types
+
+### Resource Hubs (1,200 pages)
+- Checklists for each industry
+- Guides for each industry
+- Tips for each industry
+- Strategies for each industry
+- Coverage across all 5 countries
+
+### Industry Pages (300 pages)
+- Full workforce management solutions for each industry
+- Problem → Solution → Case Study structure
+- FAQ sections
+- Strong CTAs
+
+## Tech Stack
+
+- **Next.js 15** (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Static Generation** (all 1,500 pages pre-rendered)
+- **JSON Content System** (content separated from presentation)
+
+## Deploy to Vercel
+
+1. Go to [vercel.com](https://vercel.com)
+2. Click "Import Project"
+3. Connect GitHub repo: `coldlavaai/workforce-os`
+4. Vercel will auto-detect Next.js settings
+5. Click "Deploy"
+
+**That's it.** Vercel builds and deploys all 1,500 pages automatically.
+
+## Local Development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Generating More Content
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run generate
+```
 
-## Learn More
+This runs the content generation script at `scripts/generate-content.ts`. Currently generates:
+- 60 industries × 4 content types × 5 countries = 1,200 resource hub pages
+- 60 industries × 5 countries = 300 industry pages
+- **Total: 1,500 pages**
 
-To learn more about Next.js, take a look at the following resources:
+## Scaling to 5,000+ Pages
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To hit 5,000+ pages:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Add city-specific pages** (top 50 US cities)
+2. **Add more content types** (comparison pages, free tools, templates)
+3. **Add more industries** (expand to 100+ industries)
 
-## Deploy on Vercel
+The infrastructure is ready — just run the generation script with expanded parameters.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## What's Next
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [ ] Connect to Vercel and deploy
+- [ ] Add Google Analytics
+- [ ] Submit sitemap to Google Search Console
+- [ ] Monitor indexing rate (expect 50% indexed within 30 days)
+- [ ] Add internal linking between related pages
+- [ ] Generate city-specific pages for local SEO
+- [ ] Build free tools (calculators, audits)
+
+## Pages Generated
+
+- Resource Hubs: 1,200 pages
+- Industry Pages: 300 pages
+- Homepage: 1 page
+- Demo Page: 1 page
+- **Total: 1,502 pages**
+
+---
+
+Built with the Programmatic SEO 2.0 methodology:
+- Strict JSON schemas (content/design separation)
+- Specialised React renderers for each content type
+- Bulk generation at scale (~$0.001 per page using Gemini Flash)
+- Fast, SEO-optimised static output
+
+**Ready for deployment.**
