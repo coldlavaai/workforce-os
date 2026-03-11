@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Concrete & Masonry",
+    "slug": "concrete-masonry-detroit-mi",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Concrete & Masonry Workforce Management in Detroit, MI | Workforce OS",
+    "description": "Workforce management software for Concrete & Masonry companies in Detroit, MI. Reduce costs, automate scheduling, eliminate no-shows. Serving the 4.3M metro area.",
+    "keywords": [
+      "concrete-masonry Detroit",
+      "concrete-masonry workforce management MI",
+      "concrete-masonry staffing Detroit",
+      "labour management Detroit"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Concrete & Masonry in Detroit",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 4.3M businesses",
+      "pain_point": "Managing 20-200 workers across Detroit metro area"
+    },
+    "problem_section": {
+      "heading": "The Concrete & Masonry Staffing Challenge in Detroit",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Detroit Concrete & Masonry companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Detroit sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Detroit Metro",
+          "description": "Managing crews across 4.3M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Detroit Concrete & Masonry Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Detroit job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Detroit Local Compliance",
+          "description": "Built-in tracking for MI labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Detroit Businesses Served",
+        "value": "100+",
+        "context": "Active in 4.3M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Detroit-based Concrete & Masonry contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Detroit metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Detroit job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Concrete & Masonry companies in Detroit?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Concrete & Masonry businesses operating in the Detroit metro area."
+      },
+      {
+        "question": "Do you support MI labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for MI-specific labor requirements, helping Detroit businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $2,000-$4,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Concrete & Masonry companies in Detroit use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 4.3M Detroit metro area, with growing adoption among Concrete & Masonry contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Detroit Concrete & Masonry Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Detroit Concrete & Masonry businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

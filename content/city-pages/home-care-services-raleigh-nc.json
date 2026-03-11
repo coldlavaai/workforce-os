@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Home Care Services",
+    "slug": "home-care-services-raleigh-nc",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Home Care Services Workforce Management in Raleigh, NC | Workforce OS",
+    "description": "Workforce management software for Home Care Services companies in Raleigh, NC. Reduce costs, automate scheduling, eliminate no-shows. Serving the 1.4M metro area.",
+    "keywords": [
+      "home-care-services Raleigh",
+      "home-care-services workforce management NC",
+      "home-care-services staffing Raleigh",
+      "labour management Raleigh"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Home Care Services in Raleigh",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 1.4M businesses",
+      "pain_point": "Managing 50-500 workers across Raleigh metro area"
+    },
+    "problem_section": {
+      "heading": "The Home Care Services Staffing Challenge in Raleigh",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Raleigh Home Care Services companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Raleigh sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Raleigh Metro",
+          "description": "Managing crews across 1.4M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Raleigh Home Care Services Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Raleigh job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Raleigh Local Compliance",
+          "description": "Built-in tracking for NC labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Raleigh Businesses Served",
+        "value": "100+",
+        "context": "Active in 1.4M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Raleigh-based Home Care Services contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Raleigh metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Raleigh job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Home Care Services companies in Raleigh?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Home Care Services businesses operating in the Raleigh metro area."
+      },
+      {
+        "question": "Do you support NC labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for NC-specific labor requirements, helping Raleigh businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $2,500-$5,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Home Care Services companies in Raleigh use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 1.4M Raleigh metro area, with growing adoption among Home Care Services contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Raleigh Home Care Services Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Raleigh Home Care Services businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

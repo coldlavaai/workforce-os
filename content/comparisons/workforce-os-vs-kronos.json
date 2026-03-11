@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "comparison_type": "vs",
+    "slug": "workforce-os-vs-kronos"
+  },
+  "seo": {
+    "title": "Workforce OS vs Kronos: Which is Better for Trade Businesses?",
+    "description": "Compare Workforce OS and Kronos for workforce management. See features, pricing, and which works best for construction, cleaning, hospitality, and trade businesses.",
+    "keywords": [
+      "workforce os vs kronos",
+      "kronos alternative",
+      "workforce management comparison",
+      "trade business software"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce OS vs Kronos",
+      "subheading": "Which workforce management solution is right for your trade business?"
+    },
+    "products": [
+      {
+        "name": "Workforce OS",
+        "tagline": "Built specifically for trade and service businesses",
+        "pros": [
+          "Purpose-built for construction, cleaning, hospitality industries",
+          "Automated crew dispatch and job site assignment",
+          "Eliminate agency dependency (save 60% on staffing costs)",
+          "Mobile-first for field workers",
+          "No-show reduction features (45% average improvement)",
+          "Industry-specific compliance tracking"
+        ],
+        "cons": [
+          "Newer platform (less brand recognition)",
+          "Focused on trade/service industries (not general business)"
+        ],
+        "best_for": "Trade and service businesses with 20-500 workers managing multiple job sites",
+        "pricing": "$1,500-$6,000/month based on workforce size",
+        "rating": 4.8
+      },
+      {
+        "name": "Kronos",
+        "tagline": "General workforce management platform",
+        "pros": [
+          "Established brand",
+          "Wide range of features",
+          "Multiple integrations",
+          "Large user base"
+        ],
+        "cons": [
+          "Not built for trade industries",
+          "Generic features (no industry-specific tools)",
+          "Complex setup for simple trade businesses",
+          "Higher cost for features you don't need",
+          "No automated crew dispatch for job sites"
+        ],
+        "best_for": "General businesses, retail, office environments",
+        "pricing": "Varies (often $5-$15 per user/month)",
+        "rating": 4.2
+      }
+    ],
+    "verdict": "If you run a trade or service business (construction, cleaning, hospitality, landscaping, etc.), Workforce OS is purpose-built for your needs. Kronos is a solid general solution, but lacks the industry-specific features that save trade businesses 60% on staffing costs and reduce no-shows by 45%. For retail or office environments, Kronos may be a better fit.",
+    "cta": {
+      "heading": "See Workforce OS in Action",
+      "description": "Book a 15-minute demo to see how Workforce OS outperforms generic workforce management tools for trade businesses.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

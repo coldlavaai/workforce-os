@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Pest Control",
+    "slug": "pest-control-new-york-ny",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Pest Control Workforce Management in New York, NY | Workforce OS",
+    "description": "Workforce management software for Pest Control companies in New York, NY. Reduce costs, automate scheduling, eliminate no-shows. Serving the 20M metro area.",
+    "keywords": [
+      "pest-control New York",
+      "pest-control workforce management NY",
+      "pest-control staffing New York",
+      "labour management New York"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Pest Control in New York",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 20M businesses",
+      "pain_point": "Managing 20-100 workers across New York metro area"
+    },
+    "problem_section": {
+      "heading": "The Pest Control Staffing Challenge in New York",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "New York Pest Control companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across New York sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across New York Metro",
+          "description": "Managing crews across 20M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for New York Pest Control Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to New York job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "New York Local Compliance",
+          "description": "Built-in tracking for NY labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "New York Businesses Served",
+        "value": "100+",
+        "context": "Active in 20M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A New York-based Pest Control contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across New York metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all New York job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Pest Control companies in New York?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Pest Control businesses operating in the New York metro area."
+      },
+      {
+        "question": "Do you support NY labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for NY-specific labor requirements, helping New York businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Pest Control companies in New York use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 20M New York metro area, with growing adoption among Pest Control contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How New York Pest Control Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help New York Pest Control businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Demolition",
+    "slug": "demolition-los-angeles-ca",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Demolition Workforce Management in Los Angeles, CA | Workforce OS",
+    "description": "Workforce management software for Demolition companies in Los Angeles, CA. Reduce costs, automate scheduling, eliminate no-shows. Serving the 13M metro area.",
+    "keywords": [
+      "demolition Los Angeles",
+      "demolition workforce management CA",
+      "demolition staffing Los Angeles",
+      "labour management Los Angeles"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Demolition in Los Angeles",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 13M businesses",
+      "pain_point": "Managing 20-200 workers across Los Angeles metro area"
+    },
+    "problem_section": {
+      "heading": "The Demolition Staffing Challenge in Los Angeles",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Los Angeles Demolition companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Los Angeles sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Los Angeles Metro",
+          "description": "Managing crews across 13M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Los Angeles Demolition Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Los Angeles job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Los Angeles Local Compliance",
+          "description": "Built-in tracking for CA labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Los Angeles Businesses Served",
+        "value": "100+",
+        "context": "Active in 13M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Los Angeles-based Demolition contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Los Angeles metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Los Angeles job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Demolition companies in Los Angeles?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Demolition businesses operating in the Los Angeles metro area."
+      },
+      {
+        "question": "Do you support CA labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for CA-specific labor requirements, helping Los Angeles businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $2,000-$4,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Demolition companies in Los Angeles use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 13M Los Angeles metro area, with growing adoption among Demolition contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Los Angeles Demolition Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Los Angeles Demolition businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

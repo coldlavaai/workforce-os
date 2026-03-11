@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Salon & Spa Staffing",
+    "slug": "salon-spa-staffing-las-vegas-nv",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Salon & Spa Staffing Workforce Management in Las Vegas, NV | Workforce OS",
+    "description": "Workforce management software for Salon & Spa Staffing companies in Las Vegas, NV. Reduce costs, automate scheduling, eliminate no-shows. Serving the 2.2M metro area.",
+    "keywords": [
+      "salon-spa-staffing Las Vegas",
+      "salon-spa-staffing workforce management NV",
+      "salon-spa-staffing staffing Las Vegas",
+      "labour management Las Vegas"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Salon & Spa Staffing in Las Vegas",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 2.2M businesses",
+      "pain_point": "Managing 20-200 workers across Las Vegas metro area"
+    },
+    "problem_section": {
+      "heading": "The Salon & Spa Staffing Staffing Challenge in Las Vegas",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Las Vegas Salon & Spa Staffing companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Las Vegas sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Las Vegas Metro",
+          "description": "Managing crews across 2.2M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Las Vegas Salon & Spa Staffing Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Las Vegas job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Las Vegas Local Compliance",
+          "description": "Built-in tracking for NV labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Las Vegas Businesses Served",
+        "value": "100+",
+        "context": "Active in 2.2M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Las Vegas-based Salon & Spa Staffing contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Las Vegas metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Las Vegas job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Salon & Spa Staffing companies in Las Vegas?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Salon & Spa Staffing businesses operating in the Las Vegas metro area."
+      },
+      {
+        "question": "Do you support NV labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for NV-specific labor requirements, helping Las Vegas businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Salon & Spa Staffing companies in Las Vegas use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 2.2M Las Vegas metro area, with growing adoption among Salon & Spa Staffing contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Las Vegas Salon & Spa Staffing Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Las Vegas Salon & Spa Staffing businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

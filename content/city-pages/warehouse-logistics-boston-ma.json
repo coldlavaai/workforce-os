@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Warehouse & Logistics",
+    "slug": "warehouse-logistics-boston-ma",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Warehouse & Logistics Workforce Management in Boston, MA | Workforce OS",
+    "description": "Workforce management software for Warehouse & Logistics companies in Boston, MA. Reduce costs, automate scheduling, eliminate no-shows. Serving the 4.9M metro area.",
+    "keywords": [
+      "warehouse-logistics Boston",
+      "warehouse-logistics workforce management MA",
+      "warehouse-logistics staffing Boston",
+      "labour management Boston"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Warehouse & Logistics in Boston",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 4.9M businesses",
+      "pain_point": "Managing 100-1000 workers across Boston metro area"
+    },
+    "problem_section": {
+      "heading": "The Warehouse & Logistics Staffing Challenge in Boston",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Boston Warehouse & Logistics companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Boston sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Boston Metro",
+          "description": "Managing crews across 4.9M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Boston Warehouse & Logistics Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Boston job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Boston Local Compliance",
+          "description": "Built-in tracking for MA labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Boston Businesses Served",
+        "value": "100+",
+        "context": "Active in 4.9M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Boston-based Warehouse & Logistics contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Boston metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Boston job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Warehouse & Logistics companies in Boston?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Warehouse & Logistics businesses operating in the Boston metro area."
+      },
+      {
+        "question": "Do you support MA labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for MA-specific labor requirements, helping Boston businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $3,000-$6,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Warehouse & Logistics companies in Boston use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 4.9M Boston metro area, with growing adoption among Warehouse & Logistics contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Boston Warehouse & Logistics Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Boston Warehouse & Logistics businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

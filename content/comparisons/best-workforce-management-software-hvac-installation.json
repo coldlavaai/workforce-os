@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "comparison_type": "best_of",
+    "slug": "best-workforce-management-software-hvac-installation"
+  },
+  "seo": {
+    "title": "Best Workforce Management Software for HVAC Installation | 2026 Comparison",
+    "description": "Compare the top workforce management platforms for HVAC Installation companies. Features, pricing, and which works best for 20-200 worker operations.",
+    "keywords": [
+      "hvac-installation workforce management software",
+      "best software for hvac-installation",
+      "hvac-installation staffing platform",
+      "workforce management comparison"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Best Workforce Management Software for HVAC Installation",
+      "subheading": "Compare top platforms for managing 20-200 workers"
+    },
+    "products": [
+      {
+        "name": "Workforce OS",
+        "tagline": "Purpose-built for HVAC Installation businesses",
+        "pros": [
+          "Industry-specific features for HVAC Installation",
+          "Automated crew dispatch",
+          "Eliminate agency dependency (save 60%)",
+          "Mobile-first for field workers",
+          "Reduce no-shows by 45%"
+        ],
+        "cons": [
+          "Focused on trade/service industries"
+        ],
+        "best_for": "HVAC Installation companies with 20-200 workers",
+        "pricing": "$2,000-$4,000/mo",
+        "rating": 4.8
+      },
+      {
+        "name": "Deputy",
+        "tagline": "Employee scheduling and time tracking",
+        "pros": [
+          "Easy scheduling",
+          "Time clock features",
+          "Mobile app"
+        ],
+        "cons": [
+          "Not built specifically for HVAC Installation",
+          "No automated crew dispatch",
+          "Generic features"
+        ],
+        "best_for": "General businesses, retail",
+        "pricing": "$4.50+ per user/month",
+        "rating": 4.3
+      },
+      {
+        "name": "When I Work",
+        "tagline": "Simple scheduling software",
+        "pros": [
+          "User-friendly interface",
+          "Shift swapping",
+          "Team messaging"
+        ],
+        "cons": [
+          "Lacks HVAC Installation-specific tools",
+          "No job site assignment",
+          "Basic features only"
+        ],
+        "best_for": "Small retail/hospitality teams",
+        "pricing": "$2+ per user/month",
+        "rating": 4.1
+      }
+    ],
+    "verdict": "For HVAC Installation businesses, Workforce OS is purpose-built with automated crew dispatch, agency elimination, and industry-specific compliance tracking. Generic tools like Deputy and When I Work work for retail/office but lack the features HVAC Installation companies need to save 60% on staffing costs.",
+    "cta": {
+      "heading": "See Workforce OS for HVAC Installation",
+      "description": "Book a 15-minute demo to see how Workforce OS helps HVAC Installation companies reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

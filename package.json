@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "generate": "tsx scripts/generate-content.ts"
+    "generate": "tsx scripts/generate-content.ts",
+    "generate:cities": "tsx scripts/generate-city-pages.ts",
+    "generate:comparisons": "tsx scripts/generate-comparison-pages.ts",
+    "generate:all": "npm run generate && npm run generate:cities && npm run generate:comparisons"
   },
   "dependencies": {
     "next": "16.1.6",

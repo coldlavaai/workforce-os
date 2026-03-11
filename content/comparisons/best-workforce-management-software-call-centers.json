@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "comparison_type": "best_of",
+    "slug": "best-workforce-management-software-call-centers"
+  },
+  "seo": {
+    "title": "Best Workforce Management Software for Call Centers | 2026 Comparison",
+    "description": "Compare the top workforce management platforms for Call Centers companies. Features, pricing, and which works best for 100-1000 worker operations.",
+    "keywords": [
+      "call-centers workforce management software",
+      "best software for call-centers",
+      "call-centers staffing platform",
+      "workforce management comparison"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Best Workforce Management Software for Call Centers",
+      "subheading": "Compare top platforms for managing 100-1000 workers"
+    },
+    "products": [
+      {
+        "name": "Workforce OS",
+        "tagline": "Purpose-built for Call Centers businesses",
+        "pros": [
+          "Industry-specific features for Call Centers",
+          "Automated crew dispatch",
+          "Eliminate agency dependency (save 60%)",
+          "Mobile-first for field workers",
+          "Reduce no-shows by 45%"
+        ],
+        "cons": [
+          "Focused on trade/service industries"
+        ],
+        "best_for": "Call Centers companies with 100-1000 workers",
+        "pricing": "$3,000-$6,000/mo",
+        "rating": 4.8
+      },
+      {
+        "name": "Deputy",
+        "tagline": "Employee scheduling and time tracking",
+        "pros": [
+          "Easy scheduling",
+          "Time clock features",
+          "Mobile app"
+        ],
+        "cons": [
+          "Not built specifically for Call Centers",
+          "No automated crew dispatch",
+          "Generic features"
+        ],
+        "best_for": "General businesses, retail",
+        "pricing": "$4.50+ per user/month",
+        "rating": 4.3
+      },
+      {
+        "name": "When I Work",
+        "tagline": "Simple scheduling software",
+        "pros": [
+          "User-friendly interface",
+          "Shift swapping",
+          "Team messaging"
+        ],
+        "cons": [
+          "Lacks Call Centers-specific tools",
+          "No job site assignment",
+          "Basic features only"
+        ],
+        "best_for": "Small retail/hospitality teams",
+        "pricing": "$2+ per user/month",
+        "rating": 4.1
+      }
+    ],
+    "verdict": "For Call Centers businesses, Workforce OS is purpose-built with automated crew dispatch, agency elimination, and industry-specific compliance tracking. Generic tools like Deputy and When I Work work for retail/office but lack the features Call Centers companies need to save 60% on staffing costs.",
+    "cta": {
+      "heading": "See Workforce OS for Call Centers",
+      "description": "Book a 15-minute demo to see how Workforce OS helps Call Centers companies reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

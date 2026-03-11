@@ -3,12 +3,14 @@ import * as fs from 'fs';
 import * as path from 'path';
 import ResourceHubRenderer from '../components/renderers/ResourceHubRenderer';
 import IndustryPageRenderer from '../components/renderers/IndustryPageRenderer';
-import type { PageContent, ResourceHub, IndustryPage } from '@/types/content';
+import ComparisonRenderer from '../components/renderers/ComparisonRenderer';
+import type { PageContent, ResourceHub, IndustryPage, Comparison } from '@/types/content';
 
 // Define all possible content directories
 const CONTENT_DIRS = [
   'resource-hubs',
   'industry-pages',
+  'city-pages',
   'free-tools',
   'templates',
   'comparisons',
@@ -63,7 +65,11 @@ export default function Page({ params }: { params: { slug: string } }) {
       return <ResourceHubRenderer content={content as ResourceHub} />;
     
     case 'industry-pages':
+    case 'city-pages':
       return <IndustryPageRenderer content={content as IndustryPage} />;
+    
+    case 'comparisons':
+      return <ComparisonRenderer content={content as Comparison} />;
     
     // Add other renderers as needed
     // case 'free-tools':

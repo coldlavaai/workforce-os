@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Fence Installation",
+    "slug": "fence-installation-san-antonio-tx",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Fence Installation Workforce Management in San Antonio, TX | Workforce OS",
+    "description": "Workforce management software for Fence Installation companies in San Antonio, TX. Reduce costs, automate scheduling, eliminate no-shows. Serving the 2.6M metro area.",
+    "keywords": [
+      "fence-installation San Antonio",
+      "fence-installation workforce management TX",
+      "fence-installation staffing San Antonio",
+      "labour management San Antonio"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Fence Installation in San Antonio",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 2.6M businesses",
+      "pain_point": "Managing 10-100 workers across San Antonio metro area"
+    },
+    "problem_section": {
+      "heading": "The Fence Installation Staffing Challenge in San Antonio",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "San Antonio Fence Installation companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across San Antonio sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across San Antonio Metro",
+          "description": "Managing crews across 2.6M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for San Antonio Fence Installation Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to San Antonio job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "San Antonio Local Compliance",
+          "description": "Built-in tracking for TX labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "San Antonio Businesses Served",
+        "value": "100+",
+        "context": "Active in 2.6M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A San Antonio-based Fence Installation contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across San Antonio metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all San Antonio job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Fence Installation companies in San Antonio?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Fence Installation businesses operating in the San Antonio metro area."
+      },
+      {
+        "question": "Do you support TX labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for TX-specific labor requirements, helping San Antonio businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Fence Installation companies in San Antonio use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 2.6M San Antonio metro area, with growing adoption among Fence Installation contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How San Antonio Fence Installation Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help San Antonio Fence Installation businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

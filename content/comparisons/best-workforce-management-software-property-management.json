@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "comparison_type": "best_of",
+    "slug": "best-workforce-management-software-property-management"
+  },
+  "seo": {
+    "title": "Best Workforce Management Software for Property Management | 2026 Comparison",
+    "description": "Compare the top workforce management platforms for Property Management companies. Features, pricing, and which works best for 20-200 worker operations.",
+    "keywords": [
+      "property-management workforce management software",
+      "best software for property-management",
+      "property-management staffing platform",
+      "workforce management comparison"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Best Workforce Management Software for Property Management",
+      "subheading": "Compare top platforms for managing 20-200 workers"
+    },
+    "products": [
+      {
+        "name": "Workforce OS",
+        "tagline": "Purpose-built for Property Management businesses",
+        "pros": [
+          "Industry-specific features for Property Management",
+          "Automated crew dispatch",
+          "Eliminate agency dependency (save 60%)",
+          "Mobile-first for field workers",
+          "Reduce no-shows by 45%"
+        ],
+        "cons": [
+          "Focused on trade/service industries"
+        ],
+        "best_for": "Property Management companies with 20-200 workers",
+        "pricing": "$2,000-$4,000/mo",
+        "rating": 4.8
+      },
+      {
+        "name": "Deputy",
+        "tagline": "Employee scheduling and time tracking",
+        "pros": [
+          "Easy scheduling",
+          "Time clock features",
+          "Mobile app"
+        ],
+        "cons": [
+          "Not built specifically for Property Management",
+          "No automated crew dispatch",
+          "Generic features"
+        ],
+        "best_for": "General businesses, retail",
+        "pricing": "$4.50+ per user/month",
+        "rating": 4.3
+      },
+      {
+        "name": "When I Work",
+        "tagline": "Simple scheduling software",
+        "pros": [
+          "User-friendly interface",
+          "Shift swapping",
+          "Team messaging"
+        ],
+        "cons": [
+          "Lacks Property Management-specific tools",
+          "No job site assignment",
+          "Basic features only"
+        ],
+        "best_for": "Small retail/hospitality teams",
+        "pricing": "$2+ per user/month",
+        "rating": 4.1
+      }
+    ],
+    "verdict": "For Property Management businesses, Workforce OS is purpose-built with automated crew dispatch, agency elimination, and industry-specific compliance tracking. Generic tools like Deputy and When I Work work for retail/office but lack the features Property Management companies need to save 60% on staffing costs.",
+    "cta": {
+      "heading": "See Workforce OS for Property Management",
+      "description": "Book a 15-minute demo to see how Workforce OS helps Property Management companies reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

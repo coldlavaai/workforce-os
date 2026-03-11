@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Security Services",
+    "slug": "security-services-cleveland-oh",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Security Services Workforce Management in Cleveland, OH | Workforce OS",
+    "description": "Workforce management software for Security Services companies in Cleveland, OH. Reduce costs, automate scheduling, eliminate no-shows. Serving the 2.0M metro area.",
+    "keywords": [
+      "security-services Cleveland",
+      "security-services workforce management OH",
+      "security-services staffing Cleveland",
+      "labour management Cleveland"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Security Services in Cleveland",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 2.0M businesses",
+      "pain_point": "Managing 50-300 workers across Cleveland metro area"
+    },
+    "problem_section": {
+      "heading": "The Security Services Staffing Challenge in Cleveland",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Cleveland Security Services companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Cleveland sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Cleveland Metro",
+          "description": "Managing crews across 2.0M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Cleveland Security Services Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Cleveland job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Cleveland Local Compliance",
+          "description": "Built-in tracking for OH labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Cleveland Businesses Served",
+        "value": "100+",
+        "context": "Active in 2.0M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Cleveland-based Security Services contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Cleveland metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Cleveland job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Security Services companies in Cleveland?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Security Services businesses operating in the Cleveland metro area."
+      },
+      {
+        "question": "Do you support OH labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for OH-specific labor requirements, helping Cleveland businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $2,500-$4,500/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Security Services companies in Cleveland use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 2.0M Cleveland metro area, with growing adoption among Security Services contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Cleveland Security Services Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Cleveland Security Services businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

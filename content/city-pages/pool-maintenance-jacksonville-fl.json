@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Pool Maintenance",
+    "slug": "pool-maintenance-jacksonville-fl",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Pool Maintenance Workforce Management in Jacksonville, FL | Workforce OS",
+    "description": "Workforce management software for Pool Maintenance companies in Jacksonville, FL. Reduce costs, automate scheduling, eliminate no-shows. Serving the 1.6M metro area.",
+    "keywords": [
+      "pool-maintenance Jacksonville",
+      "pool-maintenance workforce management FL",
+      "pool-maintenance staffing Jacksonville",
+      "labour management Jacksonville"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Pool Maintenance in Jacksonville",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 1.6M businesses",
+      "pain_point": "Managing 10-100 workers across Jacksonville metro area"
+    },
+    "problem_section": {
+      "heading": "The Pool Maintenance Staffing Challenge in Jacksonville",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Jacksonville Pool Maintenance companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Jacksonville sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Jacksonville Metro",
+          "description": "Managing crews across 1.6M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Jacksonville Pool Maintenance Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Jacksonville job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Jacksonville Local Compliance",
+          "description": "Built-in tracking for FL labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Jacksonville Businesses Served",
+        "value": "100+",
+        "context": "Active in 1.6M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Jacksonville-based Pool Maintenance contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Jacksonville metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Jacksonville job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Pool Maintenance companies in Jacksonville?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Pool Maintenance businesses operating in the Jacksonville metro area."
+      },
+      {
+        "question": "Do you support FL labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for FL-specific labor requirements, helping Jacksonville businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Pool Maintenance companies in Jacksonville use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 1.6M Jacksonville metro area, with growing adoption among Pool Maintenance contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Jacksonville Pool Maintenance Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Jacksonville Pool Maintenance businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

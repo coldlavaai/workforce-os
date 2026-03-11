@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Appliance Repair",
+    "slug": "appliance-repair-baltimore-md",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Appliance Repair Workforce Management in Baltimore, MD | Workforce OS",
+    "description": "Workforce management software for Appliance Repair companies in Baltimore, MD. Reduce costs, automate scheduling, eliminate no-shows. Serving the 2.8M metro area.",
+    "keywords": [
+      "appliance-repair Baltimore",
+      "appliance-repair workforce management MD",
+      "appliance-repair staffing Baltimore",
+      "labour management Baltimore"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Appliance Repair in Baltimore",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 2.8M businesses",
+      "pain_point": "Managing 10-100 workers across Baltimore metro area"
+    },
+    "problem_section": {
+      "heading": "The Appliance Repair Staffing Challenge in Baltimore",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Baltimore Appliance Repair companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Baltimore sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Baltimore Metro",
+          "description": "Managing crews across 2.8M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Baltimore Appliance Repair Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Baltimore job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Baltimore Local Compliance",
+          "description": "Built-in tracking for MD labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Baltimore Businesses Served",
+        "value": "100+",
+        "context": "Active in 2.8M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Baltimore-based Appliance Repair contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Baltimore metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Baltimore job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Appliance Repair companies in Baltimore?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Appliance Repair businesses operating in the Baltimore metro area."
+      },
+      {
+        "question": "Do you support MD labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for MD-specific labor requirements, helping Baltimore businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Appliance Repair companies in Baltimore use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 2.8M Baltimore metro area, with growing adoption among Appliance Repair contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Baltimore Appliance Repair Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Baltimore Appliance Repair businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

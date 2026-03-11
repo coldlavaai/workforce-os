@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Home Care Services",
+    "slug": "home-care-services-houston-tx",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Home Care Services Workforce Management in Houston, TX | Workforce OS",
+    "description": "Workforce management software for Home Care Services companies in Houston, TX. Reduce costs, automate scheduling, eliminate no-shows. Serving the 7.1M metro area.",
+    "keywords": [
+      "home-care-services Houston",
+      "home-care-services workforce management TX",
+      "home-care-services staffing Houston",
+      "labour management Houston"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Home Care Services in Houston",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 7.1M businesses",
+      "pain_point": "Managing 50-500 workers across Houston metro area"
+    },
+    "problem_section": {
+      "heading": "The Home Care Services Staffing Challenge in Houston",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Houston Home Care Services companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Houston sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Houston Metro",
+          "description": "Managing crews across 7.1M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Houston Home Care Services Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Houston job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Houston Local Compliance",
+          "description": "Built-in tracking for TX labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Houston Businesses Served",
+        "value": "100+",
+        "context": "Active in 7.1M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Houston-based Home Care Services contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Houston metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Houston job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Home Care Services companies in Houston?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Home Care Services businesses operating in the Houston metro area."
+      },
+      {
+        "question": "Do you support TX labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for TX-specific labor requirements, helping Houston businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $2,500-$5,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Home Care Services companies in Houston use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 7.1M Houston metro area, with growing adoption among Home Care Services contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Houston Home Care Services Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Houston Home Care Services businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

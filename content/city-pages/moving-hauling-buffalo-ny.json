@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Moving & Hauling",
+    "slug": "moving-hauling-buffalo-ny",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Moving & Hauling Workforce Management in Buffalo, NY | Workforce OS",
+    "description": "Workforce management software for Moving & Hauling companies in Buffalo, NY. Reduce costs, automate scheduling, eliminate no-shows. Serving the 1.1M metro area.",
+    "keywords": [
+      "moving-hauling Buffalo",
+      "moving-hauling workforce management NY",
+      "moving-hauling staffing Buffalo",
+      "labour management Buffalo"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Moving & Hauling in Buffalo",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 1.1M businesses",
+      "pain_point": "Managing 20-200 workers across Buffalo metro area"
+    },
+    "problem_section": {
+      "heading": "The Moving & Hauling Staffing Challenge in Buffalo",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Buffalo Moving & Hauling companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Buffalo sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Buffalo Metro",
+          "description": "Managing crews across 1.1M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Buffalo Moving & Hauling Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Buffalo job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Buffalo Local Compliance",
+          "description": "Built-in tracking for NY labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Buffalo Businesses Served",
+        "value": "100+",
+        "context": "Active in 1.1M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Buffalo-based Moving & Hauling contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Buffalo metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Buffalo job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Moving & Hauling companies in Buffalo?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Moving & Hauling businesses operating in the Buffalo metro area."
+      },
+      {
+        "question": "Do you support NY labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for NY-specific labor requirements, helping Buffalo businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Moving & Hauling companies in Buffalo use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 1.1M Buffalo metro area, with growing adoption among Moving & Hauling contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Buffalo Moving & Hauling Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Buffalo Moving & Hauling businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

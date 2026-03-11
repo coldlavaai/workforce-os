@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Dental Staffing",
+    "slug": "dental-staffing-minneapolis-mn",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Dental Staffing Workforce Management in Minneapolis, MN | Workforce OS",
+    "description": "Workforce management software for Dental Staffing companies in Minneapolis, MN. Reduce costs, automate scheduling, eliminate no-shows. Serving the 3.7M metro area.",
+    "keywords": [
+      "dental-staffing Minneapolis",
+      "dental-staffing workforce management MN",
+      "dental-staffing staffing Minneapolis",
+      "labour management Minneapolis"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Dental Staffing in Minneapolis",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 3.7M businesses",
+      "pain_point": "Managing 50-500 workers across Minneapolis metro area"
+    },
+    "problem_section": {
+      "heading": "The Dental Staffing Staffing Challenge in Minneapolis",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Minneapolis Dental Staffing companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Minneapolis sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Minneapolis Metro",
+          "description": "Managing crews across 3.7M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Minneapolis Dental Staffing Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Minneapolis job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Minneapolis Local Compliance",
+          "description": "Built-in tracking for MN labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Minneapolis Businesses Served",
+        "value": "100+",
+        "context": "Active in 3.7M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Minneapolis-based Dental Staffing contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Minneapolis metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Minneapolis job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Dental Staffing companies in Minneapolis?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Dental Staffing businesses operating in the Minneapolis metro area."
+      },
+      {
+        "question": "Do you support MN labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for MN-specific labor requirements, helping Minneapolis businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $2,000-$4,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Dental Staffing companies in Minneapolis use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 3.7M Minneapolis metro area, with growing adoption among Dental Staffing contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Minneapolis Dental Staffing Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Minneapolis Dental Staffing businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "industry_overview",
+    "industry": "Carpet Cleaning",
+    "slug": "carpet-cleaning-louisville-ky",
+    "country": "United States"
+  },
+  "seo": {
+    "title": "Carpet Cleaning Workforce Management in Louisville, KY | Workforce OS",
+    "description": "Workforce management software for Carpet Cleaning companies in Louisville, KY. Reduce costs, automate scheduling, eliminate no-shows. Serving the 1.3M metro area.",
+    "keywords": [
+      "carpet-cleaning Louisville",
+      "carpet-cleaning workforce management KY",
+      "carpet-cleaning staffing Louisville",
+      "labour management Louisville"
+    ]
+  },
+  "content": {
+    "hero": {
+      "heading": "Workforce Management for Carpet Cleaning in Louisville",
+      "subheading": "Automate crew dispatch, reduce agency costs by 60%, serve 1.3M businesses",
+      "pain_point": "Managing 10-100 workers across Louisville metro area"
+    },
+    "problem_section": {
+      "heading": "The Carpet Cleaning Staffing Challenge in Louisville",
+      "problems": [
+        {
+          "title": "Agency Dependency Costs 35-40% Markup",
+          "description": "Louisville Carpet Cleaning companies lose thousands to staffing agency fees",
+          "cost_impact": "Avg. $120K annually for 300-worker operation"
+        },
+        {
+          "title": "No-Shows Delay Projects",
+          "description": "Last-minute absences across Louisville sites mean scrambling for replacements",
+          "cost_impact": "$500-$2,000 per incident"
+        },
+        {
+          "title": "Multi-Site Coordination Across Louisville Metro",
+          "description": "Managing crews across 1.3M metro area without visibility",
+          "cost_impact": "10+ hours per week on manual scheduling"
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "How Workforce OS Solves It for Louisville Carpet Cleaning Companies",
+      "features": [
+        {
+          "title": "Automated Crew Dispatch",
+          "description": "AI-powered scheduling assigns workers to Louisville job sites based on skills, location, and availability",
+          "benefit": "Save 10+ hours per week on manual scheduling"
+        },
+        {
+          "title": "Real-Time Worker Availability",
+          "description": "Workers across the metro area confirm shifts via mobile app",
+          "benefit": "Reduce no-shows by 45%"
+        },
+        {
+          "title": "Louisville Local Compliance",
+          "description": "Built-in tracking for KY labor regulations and requirements",
+          "benefit": "Avoid costly compliance violations"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "metric": "Cost Reduction",
+        "value": "60%",
+        "context": "By eliminating agency fees"
+      },
+      {
+        "metric": "No-Show Reduction",
+        "value": "45%",
+        "context": "With automated confirmations"
+      },
+      {
+        "metric": "Louisville Businesses Served",
+        "value": "100+",
+        "context": "Active in 1.3M metro"
+      }
+    ],
+    "case_study": {
+      "company_type": "A Louisville-based Carpet Cleaning contractor",
+      "workforce_size": "300+ workers",
+      "challenge": "High agency costs managing crews across Louisville metro area",
+      "solution": "Implemented Workforce OS for automated dispatch and worker management",
+      "results": [
+        "Saved $120K annually by eliminating agency dependency",
+        "Reduced no-shows by 45%",
+        "Cut scheduling time from 15 hours to 3 hours per week",
+        "Improved coverage across all Louisville job sites"
+      ]
+    },
+    "faq": [
+      {
+        "question": "How does Workforce OS work for Carpet Cleaning companies in Louisville?",
+        "answer": "Workforce OS provides automated crew dispatch, real-time worker tracking, and mobile-first tools built specifically for Carpet Cleaning businesses operating in the Louisville metro area."
+      },
+      {
+        "question": "Do you support KY labor regulations?",
+        "answer": "Yes. Workforce OS includes built-in compliance tracking for KY-specific labor requirements, helping Louisville businesses avoid violations."
+      },
+      {
+        "question": "What does it cost?",
+        "answer": "Pricing starts at $1,500-$3,000/mo per month depending on workforce size and features."
+      },
+      {
+        "question": "How many Carpet Cleaning companies in Louisville use Workforce OS?",
+        "answer": "We serve 100+ businesses across the 1.3M Louisville metro area, with growing adoption among Carpet Cleaning contractors."
+      }
+    ],
+    "cta": {
+      "heading": "See How Louisville Carpet Cleaning Companies Use Workforce OS",
+      "description": "Book a 15-minute demo to see how we help Louisville Carpet Cleaning businesses reduce costs and improve efficiency.",
+      "button_text": "Book a Demo",
+      "button_url": "/demo"
+    }
+  }
+}
